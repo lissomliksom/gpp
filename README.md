@@ -1,6 +1,6 @@
 # General Physical Preparedness (GPP) Interval Generator
 
-A small project to learn the basics of Vue 3.
+Small web-app for generating General Physical Preparedness interval training, made with VueJS.
 
 ## Project Setup
 
