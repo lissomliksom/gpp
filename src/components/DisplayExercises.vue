@@ -19,7 +19,7 @@
 </script>
 
 <template>
-  <div class="container">
+  <div class="flex flex-col items-center justify-center p-3 text-xl my-5">
     <div v-for="exercise in randomizeExercies.slice(0, 4)" :key="exercise">{{ exercise }}</div>
   </div>
 </template>

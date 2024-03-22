@@ -4,19 +4,10 @@
 </script>
 
 <template>
-  <header>
-    <div>
+  <main class="h-dvh bg-gray-50 p-3">
+    <div class="border border-black rounded bg-white max-w-sm mx-auto w-full h-full">
       <DisplayReps />
-    </div>
-  </header>
-
-  <main>
-    <div>
       <DisplayExercises />
     </div>
   </main>
 </template>
-
-<style scoped>
-
-</style>

@@ -5,7 +5,7 @@ Small web-app for generating General Physical Preparedness interval training, ma
 ## Project Setup
 
 ```sh
-git clone
+git clone https://github.com/lissomliksom/gpp.git
 npm install
 ```
 
