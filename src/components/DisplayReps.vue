@@ -8,7 +8,7 @@
 </script>
 
 <template>
-  <div class="container">
-    <p>{{ randomRepetitionVariation }}</p>
+  <div class="flex items-center justify-center p-3 text-xl">
+    {{ randomRepetitionVariation }}
   </div>
 </template>
