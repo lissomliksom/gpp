@@ -2,15 +2,17 @@
 - Add a button for refreshing all values.
 - Add a button for starting a 1 minute timer.
 - Add a button for settings:
-  - Enable/Disable timer
+  - Enable/Disable rep options
   - Enable/Disable exercises
   - Save to LocalStorage
 
 
 # Styling
-- Add Tailwind
+- Add custom font
+- Add light/dark mode (based on system preferences)
+
 
 # Exercises
-- Add a difficulty level to each exercise: Easy, medium, hard.
+- Add a difficulty/intensity level to each exercise: Easy, medium, hard.
 - Add a category to each exercise.
-- Select exercises based on 
+- Select random exercises based on settings.
